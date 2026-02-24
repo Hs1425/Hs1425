@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
+I'm Hussain, a Computer Information Systems student based in Saudi Arabia 🇸🇦
 
-<!--
-**Hs1425/Hs1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy analyzing data, building web applications, and learning how to design better user experiences.
+If I see a problem, I usually think about how to solve it with code or data.
 
-Here are some ideas to get you started:
+My main interests are data analysis, web development, and I'm currently exploring UI/UX design.
+I like building things that are functional, clean, and user-focused.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on several academic and personal projects, always aiming to improve my technical and problem-solving skills.
+
+If you're into tech, data, or building cool stuff — we’ll probably get along 🤝
+
+Fun Facts:
+🎌 I love anime ('Watched More than 400')
+🎮 I enjoy playing video games, especially 'Fortnite and Overwatch.'
+☕ I don’t like coffee or tea.
